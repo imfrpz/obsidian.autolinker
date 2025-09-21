@@ -2,6 +2,8 @@
 
 **Automatic Linking Between Notes and Term Dictionaries in Obsidian**
 
+Documentation is also available in [Russian](README.ru.md).
+
 ## Project Description
 
 This project provides a Python script for automatically generating internal links within Obsidian notes. The script analyzes note content and creates links to other notes and terms from dictionaries, while completely ignoring:
@@ -68,4 +70,3 @@ Although the script is designed to:
 unexpected situations may occur during the first run, especially if the note structure or term formatting differs from what is expected.
 
 A backup ensures your data stays safe and allows you to restore it if necessary.
-
